@@ -1,0 +1,12 @@
+#head {
+    color: gray;
+}
+body {
+    text-align: center;
+}
+#content {
+    border: 30px;
+    background-color: pink;
+    border-width: 80px;
+    border-radius: 5px;
+}
